@@ -10,6 +10,7 @@ import Testimonials from "@/Imports/Testimonials";
 import Footer from "@/Imports/Footer";
 import CaseStudies from "@/Imports/CaseStudies";
 import Leadership from "@/Imports/Leadership";
+import StrategicServices from "@/Imports/StrategicServices";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
       <Credibility />
       <AboutMe />
       <Platforms />
+      <StrategicServices />
       <Events />
       <CaseStudies />
       <Media />
